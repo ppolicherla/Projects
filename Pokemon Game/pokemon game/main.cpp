@@ -150,7 +150,7 @@ int main()
 			break;
 		}
 	}
-	while (player_health >= 0 || cpu_health >= 0);
+	while (player_health >= 0 && cpu_health >= 0);
 
 	if (player_health > cpu_health)
 	{
