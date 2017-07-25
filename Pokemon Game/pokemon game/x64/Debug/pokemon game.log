@@ -1,3 +1,4 @@
 ﻿  main.cpp
-  pokemon game.vcxproj -> C:\Users\Pavan\Documents\GitHub\Projects\Pokemon Game\x64\Debug\pokemon game.exe
-  pokemon game.vcxproj -> C:\Users\Pavan\Documents\GitHub\Projects\Pokemon Game\x64\Debug\pokemon game.pdb (Partial PDB)
+c:\users\pavan\documents\github\projects\pokemon game\pokemon game\main.cpp(46): error C2181: illegal else without matching if
+c:\users\pavan\documents\github\projects\pokemon game\pokemon game\main.cpp(86): error C2181: illegal else without matching if
+c:\users\pavan\documents\github\projects\pokemon game\pokemon game\main.cpp(122): error C2181: illegal else without matching if
